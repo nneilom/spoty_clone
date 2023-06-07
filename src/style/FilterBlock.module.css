@@ -1,0 +1,14 @@
+.filterBtn {
+  width: 150px;
+  height: 40px;
+  border-radius: 5px;
+  border: none;
+  background-color: rgba(29, 185, 84, 1);
+  color: white;
+}
+.filterCont {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+  margin: 0 auto;
+}

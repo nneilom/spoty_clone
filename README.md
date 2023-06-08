@@ -1,70 +1,25 @@
-# Getting Started with Create React App
+To see the project, you can use the command "npm run start."
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The following features were implemented in the project, greatly enriching its functionality:
 
-## Available Scripts
+Authentication: We developed a complete authentication system, including registration (sign up), login, password reset, and password change. This ensures security and convenience for our users.
 
-In the project directory, you can run:
+Comments and their display: We added the ability for users to leave comments and display them on the relevant pages. This allows users to share their thoughts, discuss content, and create an interactive community around the project.
 
-### `npm start`
+Rating submission: We implemented a mechanism that allows users to submit ratings and evaluate content. This enables the assessment of popularity and quality of materials within the "Stopify" project.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Layout and design: Special attention was given to the project's layout to create an attractive and intuitive user interface. Visual design and element arrangement were carefully considered down to the smallest details to ensure a comfortable user experience.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Playlist management: We incorporated functionality that allows users to create and add playlists with music compositions. This enables users to customize personalized music streams according to their tastes and preferences.
 
-### `npm test`
+Search functionality: We developed a search tool that enables users to easily find the desired content within the "Stopify" project. This significantly simplifies app navigation and enhances its usability.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+CRUD participation (Create, Read, Update, Delete): We implemented functionality that enables users to create, view, update, and delete various elements within the project, contributing to a comprehensive user experience.
 
-### `npm run build`
+Certainly! In addition to that, we implemented an impressive player within the "Stopify" project. This player allows users to play music from playlists and control playback: play, pause, skip tracks, and adjust the volume. We paid special attention to the design of the player to make it visually appealing and intuitive for users. As a result, users can enjoy their favorite music and create their desired atmosphere within the "Stopify" project.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

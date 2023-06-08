@@ -4,7 +4,7 @@
 
 body {
   font-family: "Circular";
-  background-color: rgba(18, 18, 18, 1);
+  /* background-color: rgba(18, 18, 18, 1); */
 }
 
 .glav_div {
@@ -13,7 +13,6 @@ body {
   width: 600px;
   margin-left: 30%;
   border-radius: 50px;
-
   margin-top: 70px;
 }
 

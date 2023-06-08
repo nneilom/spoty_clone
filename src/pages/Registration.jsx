@@ -37,7 +37,7 @@ const Registration = () => {
 
   return (
     <FormLayout>
-      <div className={classes.mainBlock}>
+      <div className={classes.mainBlock} style={{ backgroundColor: "white" }}>
         <div className={classes.registerBox}>
           <div className={classes.image}>
             <img src={logoSpotify} alt="logo" />
